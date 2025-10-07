@@ -4,9 +4,7 @@ package com.homework.app.mapper;
 import com.homework.app.dto.NoteRequest;
 import com.homework.app.dto.NoteResponse;
 import com.homework.app.entity.Note;
-import org.springframework.stereotype.Component;
 
-@Component
 public class NoteMapper {
     private NoteMapper() {}
 
